@@ -5,6 +5,7 @@ import "firebase/compat/storage";
 // 50min do video
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
 const firebaseConfig = {
   apiKey: "AIzaSyD8dia-K0QJN22syG8WaV8M7B7zj73Ef-Q",
   authDomain: "clonefb-25c50.firebaseapp.com",
